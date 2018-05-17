@@ -233,6 +233,15 @@ Using the --strict mode, the tool prints running details in CSV format separatin
 
 <hr />
 
+### License
+
+GraphGrepSX is distributed under the MIT license. This means that it is free for both academic and commercial use. Note however that some third party components in GraphGrepSX require that you reference certain works in scientific publications.
+You are free to link or use GraphGrepSX inside source code of your own program. If do so, please reference (cite) GraphGrepSX and this website. We appreciate bug fixes and would be happy to collaborate for improvements. 
+[MIT License](https://raw.githubusercontent.com/GiugnoLab/GraphGrepSX/master/LICENSE.txt)
+
+
+
+
 ### For Developers
 #### Library Details
 GraphGrepSX was developed in C++ using the Object Oriented paradigm. All core classes are locate in the GGSXLib folder and they are included in the GGSXLib namespace. The VF-Library is compiled and used as extarnal library, linked to the project by the makefile. Interfaces to this library are included in the GGSXVFLib namespace.
