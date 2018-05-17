@@ -236,11 +236,20 @@ Using the --strict mode, the tool prints running details in CSV format separatin
 ### License
 
 GraphGrepSX is distributed under the MIT license. This means that it is free for both academic and commercial use. Note however that some third party components in GraphGrepSX require that you reference certain works in scientific publications.
-You are free to link or use GraphGrepSX inside source code of your own program. If do so, please reference (cite) GraphGrepSX and this website. We appreciate bug fixes and would be happy to collaborate for improvements. 
+You are free to link or use GraphGrepSX inside source code of your own program. If do so, please reference (cite) GraphGrepSX and this website. We appreciate bug fixes and would be happy to collaborate for improvements. <br>
 [MIT License](https://raw.githubusercontent.com/GiugnoLab/GraphGrepSX/master/LICENSE.txt)
 
+<hr />
 
+### Citation
+	"Bonnici, V., Ferro, A., Giugno, R., Pulvirenti, A., & Shasha, D. (2010, September).
+	Enhancing graph database indexing by suffix tree structure.
+	In IAPR International Conference on Pattern Recognition in Bioinformatics (pp. 195-203).
+	Springer, Berlin, Heidelberg."
+[Onlin Version](https://link.springer.com/chapter/10.1007/978-3-642-16001-1_17) <br>
+[Cited By](https://scholar.google.it/scholar?hl=it&as_sdt=0%2C5&q=graphgrepsx+bonnici&btnG=)
 
+<hr />
 
 ### For Developers
 #### Library Details
